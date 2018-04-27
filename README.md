@@ -1,2 +1,2 @@
 # Motor-insurance
-Motor insurance statistic
+Motor insurance statistic.
