@@ -1,0 +1,13 @@
+<h1 align="center">Motor-insurance</h1>
+
+Motor insurance statistic.
+
+This is a tool for underwriters and finance departments. This allows quickly to find out the minimum rate and the minimum insurance premium. The source dataset, which was provided by one of largest insurance companies, contains statistical data for two years.
+
+"Link to publication":https://app.powerbi.com/view?r=eyJrIjoiNGQwZDBiOGUtODRhZi00N2I3LTkzNWMtYmJiNTdiOTIwOWMxIiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9.
+
+<pre>
+Shot URL https://goo.gl/V9UkVs
+</pre>
+
+"Link to Power BI community":https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839#M1859.
